@@ -12,7 +12,7 @@ Ascent: All three motors rotate in a forward direction, driving the wheels up th
 Descent: The polarity is reversed by the driver, allowing controlled descent.
 Holding: When stopped, the high gear ratio of the motors acts as a brake to hold the robot in position.
 
-#Component	             Quantity	            Description
+# Component	             Quantity	            Description
 Arduino Uno R3	          1	                Microcontroller for processing commands.
 L298N Motor Driver	      1	                Controls the high-torque DC motors.
 HC-05 Bluetooth Module	  1	                Enables wireless communication.
