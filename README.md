@@ -39,7 +39,7 @@ Holding: When stopped, the high gear ratio of the motors acts as a brake to hold
 | **3-Pin Toggle Switch** | 1 | Master power control for the robot. |
 
 <p align="center">
-  <img src="Circuit diagram.png" width="45%" alt="Circuit Diagram">
+  <img src="circuit diagram.png" width="45%" alt="Circuit Diagram">
 </p>
 <p align="center">
 <em>Circuit Diagram </em>
