@@ -12,10 +12,14 @@ Ascent: All three motors rotate in a forward direction, driving the wheels up th
 Descent: The polarity is reversed by the driver, allowing controlled descent.
 Holding: When stopped, the high gear ratio of the motors acts as a brake to hold the robot in position.
 
-# Component	             Quantity	            Description
-Arduino Uno R3	          1	                Microcontroller for processing commands.
-L298N Motor Driver	      1	                Controls the high-torque DC motors.
-HC-05 Bluetooth Module	  1	                Enables wireless communication.
-150RPM DC Motors	        3	                Provides the necessary torque for gripping and climbing.
-Li-Ion Cells (3.7V)	      2	                Power source (Series connection for 7.4V).
-3-Pin Toggle Switch	      1	                Master power control for the robot.
+### Components Used
+
+| Component | Quantity | Description |
+| :--- | :--- | :--- |
+| **Arduino Uno R3** | 1 | Microcontroller for processing commands. |
+| **L298N Motor Driver** | 1 | Controls the high-torque DC motors. |
+| **HC-05 Bluetooth Module** | 1 | Enables wireless communication. |
+| **150RPM DC Motors** | 3 | Provides high torque for gripping and climbing. |
+| **Li-Ion Cells (3.7V)** | 2 | Power source (Series connection for 7.4V). |
+| **3-Pin Toggle Switch** | 1 | Master power control for the robot. |
+
